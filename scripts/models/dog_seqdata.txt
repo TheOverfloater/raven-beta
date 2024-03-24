@@ -1,0 +1,9 @@
+attack ACT_MELEE_ATTACK1 { 3 4 "test option" }
+death ACT_DIESIMPLE
+deathb ACT_DIEFORWARD
+pain ACT_SMALL_FLINCH
+painb ACT_SMALL_FLINCH
+run ACT_RUN speed 300 looped
+leap ACT_RANGE_ATTACK1
+stand ACT_IDLE looped
+walk ACT_WALK speed 100 looped

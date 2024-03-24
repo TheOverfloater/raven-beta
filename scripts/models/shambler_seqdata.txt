@@ -1,0 +1,9 @@
+stand ACT_IDLE looped
+walk ACT_WALK speed 100 looped
+run ACT_RUN speed 300 looped
+smash ACT_MELEE_ATTACK1 { 4 6 } { 9 3 }
+swingr ACT_MELEE_ATTACK1 { 2 6 } { 7 4 }
+swingl ACT_MELEE_ATTACK1 { 2 6 } { 6 4 }
+magic ACT_RANGE_ATTACK1 { 2 7 } { 6 5 }
+pain ACT_SMALL_FLINCH
+death ACT_DIESIMPLE

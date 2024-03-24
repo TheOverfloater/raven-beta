@@ -1,0 +1,2 @@
+idle ACT_RESET
+shot ACT_RESET

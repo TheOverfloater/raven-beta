@@ -1,0 +1,10 @@
+stand ACT_IDLE looped
+death ACT_DIESIMPLE
+deathc ACT_DIESIMPLE
+load ACT_RELOAD { 8 5 }
+pain ACT_SMALL_FLINCH
+painb ACT_SMALL_FLINCH
+painc ACT_SMALL_FLINCH
+run ACT_RUN speed 200 looped
+shoot ACT_RANGE_ATTACK1 looped { 5 4 }
+prowl_ ACT_WALK speed 60 looped

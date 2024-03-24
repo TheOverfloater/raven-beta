@@ -1,0 +1,37 @@
+// String patches
+
+// #define IDS_MAIN_PREVIEWSHELP           400
+// #define IDS_MAIN_CUSTOMHELP             530
+// #define IDS_MAIN_RETURNHELP             188
+// #define IDS_MAIN_NEWGAMEHELP            189
+// #define IDS_MAIN_TRAININGHELP           190
+// #define IDS_MAIN_LOADHELP               191
+// #define IDS_MAIN_LOADSAVEHELP           192
+// #define IDS_MAIN_CONFIGUREHELP          193
+// #define IDS_MAIN_READMEHELP             194
+// #define IDS_MAIN_ORDERHELP              195
+// #define IDS_MAIN_QUITHELP               196
+// #define IDS_MAIN_QUICKHELP              197
+// #define IDS_MAIN_MULTIPLAYERHELP        198
+// #define IDS_MAIN_QUITPROMPTINGAME       235
+// #define IDS_MAIN_QUITPROMPT             236
+
+402 "www.gearboxsoftware.com/projects.html"
+400 "Find out more about Gearbox Software's product line-up."
+530 "Select a custom game, maggot."
+188 "Back to the current mission."
+189 "Begin a new mission, soldier."
+190 "Off for a little basic training."
+191 "Load a saved mission."
+192 "Load/Save a mission in progress."
+193 "You looking to tweak out your setup, dirtbag?"
+194 "Brief yourself on the current situation, son."
+196 "A good soldier never leaves his squad behind."
+198 "Prepare for combat.  This is not an exercise!"
+235 "You going AWOL on me, son?  This will abandon the current misson!"
+236 "You going AWOL on me, son?"
+234 "Leaving for Boot Camp will end your current mission."
+338 "Could not validate National Violation"
+340 "Please Insert the National Violation CD"
+195 "Find out more about Gearbox Software's product line-up."
+76 "www.gearboxsoftware.com/projects.html"
